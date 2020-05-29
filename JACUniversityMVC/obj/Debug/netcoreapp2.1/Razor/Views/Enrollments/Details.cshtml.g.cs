@@ -125,7 +125,7 @@ using JACUniversityMVC.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(782, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "db1f44afb0f44de9b2a3a593ad5589f0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3bacbf79fec54aa59bd261cb418e669e", async() => {
                 BeginContext(838, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -160,7 +160,7 @@ using JACUniversityMVC.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(854, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2478f947264a4840b3e85c77596dd848", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cdffba36e09041ccaa4a5e356af10de9", async() => {
                 BeginContext(876, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
